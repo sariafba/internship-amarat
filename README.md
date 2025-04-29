@@ -17,9 +17,9 @@ A Laravel-based RESTful API built to streamline task management and reporting fo
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Laravel (RESTful API)
-- **Database**: MySQL (or your database of choice)
-- **Authentication**: Laravel Sanctum / Passport (if used)
+- **Backend**: Laravel 
+- **Database**: MySQL 
+- **Authentication**: Laravel Sanctum
 - **Reporting**: DomPDF and Laravel Excel for exporting reports
 
 ## 📱 Integration
